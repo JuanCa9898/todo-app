@@ -2,6 +2,10 @@
 
 A task management application that allows users to add, complete, and delete tasks with a clean and simple interface.
 
+## Preview
+<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/6070007e-676e-4a48-836d-97dc6716ff29" />
+
+
 ## Features
 
 - Add new tasks
